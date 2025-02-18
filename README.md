@@ -8,18 +8,21 @@ Instructions:
 
 # Check-In
 
-- Title of your submission: **[Insert your title here]**
+- Title of your submission: **[Fine-tuning pretrained scGPT for bioinformatics service in the biotech industry]**
 - Team Members: [Firstname Lastname](mailto:firstname.lastname@exampledomain.com), [Firstname Lastname](mailto:firstname.lastname@exampledomain.com)
 - [ ] All team members agree to abide by the [Hackathon Rules](https://aaai.org/conference/aaai/aaai-25/hackathon/)
 - [ ] This AAAI 2025 hackathon entry was created by the team during the period of the hackathon, February 17 – February 24, 2025
 - [ ] The entry includes a 2-minute maximum length demo video here: [Link](https://your-link.com)
 - [ ] The entry clearly identifies the selected theme in the README and the video.
 
-# Team 75, Fine-tuning pretrained scGPT for bioinformatics service in the biotech industry
+# Seletected Theme: Advanced Algorithms in Practice
+Team 75, Fine-tuning pretrained scGPT for bioinformatics service in the biotech industry
 This is collaborative team between Old Dominion University and Admera Health LLC (https://www.admerahealth.com/) 
 
 We aim to finetune scGPT (https://github.com/bowang-lab/scGPT) to cell type identifing using the single cell RNAseq data. 
-The long-term goal is to integrate this capability into the bioinformatics pipeline of Admera Health 
+The long-term goal is to integrate this capability into the bioinformatics pipeline of Admera Health. 
+
+Our project aligns with theme "Advanced Algorithms in Practice: Bring cutting-edge AI methodologies like reinforcement learning, active learning, or foundation models into real-world applications."
 
 # Hackathon AAAI homepage
 https://aaai.org/conference/aaai/aaai-25/hackathon/?utm_source=chatgpt.com
