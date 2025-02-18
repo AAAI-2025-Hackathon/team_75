@@ -10,7 +10,7 @@ Instructions:
 
 - Title of your submission: **[Fine-tuning pretrained scGPT for bioinformatics service in the biotech industry]**
 - Team Members: [Firstname Lastname](mailto:firstname.lastname@exampledomain.com), [Firstname Lastname](mailto:firstname.lastname@exampledomain.com)
-- [ ] All team members agree to abide by the [Hackathon Rules](https://aaai.org/conference/aaai/aaai-25/hackathon/)
+- [X] All team members agree to abide by the [Hackathon Rules](https://aaai.org/conference/aaai/aaai-25/hackathon/)
 - [ ] This AAAI 2025 hackathon entry was created by the team during the period of the hackathon, February 17 – February 24, 2025
 - [ ] The entry includes a 2-minute maximum length demo video here: [Link](https://your-link.com)
 - [ ] The entry clearly identifies the selected theme in the README and the video.
