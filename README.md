@@ -28,5 +28,13 @@ https://aaai.org/conference/aaai/aaai-25/hackathon/?utm_source=chatgpt.com
 
 # data are stored in largedata directory, need to add manually. 
 
+# Run scGPT on ODU Wahab
+To use scGPT, please follow these commands:
+
+module load pytorch-gpu/2.1 
+
+crun.pytorch-gpu -p ~/envs/scGPT python test_scgpt_wahab.py
+
+
 
 
