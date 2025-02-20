@@ -1,1 +1,7 @@
+crun.pytorch-gpu -p ~/envs/scGPT python code.py
 Hong can gitclone this to wahab cluster using rsa keys. 
+
+
+module load pytorch-gpu/2.1
+salloc -p gpu --gres gpu:1 -c 8
+crun.pytorch-gpu -p ~/envs/scGPT python test_scgpt_wahab.py
