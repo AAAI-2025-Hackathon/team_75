@@ -26,5 +26,7 @@ Our project aligns with theme "Advanced Algorithms in Practice: Bring cutting-ed
 # Hackathon AAAI homepage
 https://aaai.org/conference/aaai/aaai-25/hackathon/?utm_source=chatgpt.com
 
+# data are stored in largedata directory, need to add manually. 
+
 
 
