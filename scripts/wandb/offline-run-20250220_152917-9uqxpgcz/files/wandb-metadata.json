@@ -1,0 +1,95 @@
+{
+  "os":  "Linux-4.18.0-513.9.1.el8_9.x86_64-x86_64-with-glibc2.28",
+  "python":  "CPython 3.10.11",
+  "startedAt":  "2025-02-20T20:29:18.747273Z",
+  "program":  "/home/hqin/github/team_75/scripts/test_scgpt_wahab.py",
+  "codePath":  "scripts/test_scgpt_wahab.py",
+  "git":  {
+    "remote":  "git@github.com:AAAI-2025-Hackathon/team_75.git",
+    "commit":  "bbbc7ca8e638f1385ef4e66c2635eba127248de3"
+  },
+  "root":  "/home/hqin/github/team_75/scripts",
+  "host":  "d3-w4140b-06",
+  "executable":  "/home/hqin/envs/scGPT/bin/python",
+  "codePathLocal":  "test_scgpt_wahab.py",
+  "cpu_count":  32,
+  "cpu_count_logical":  32,
+  "gpu":  "Tesla V100-SXM2-16GB",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "67108864",
+      "used":  "12288"
+    }
+  },
+  "memory":  {
+    "total":  "201355026432"
+  },
+  "cpu":  {
+    "count":  32,
+    "countLogical":  32
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "Tesla V100-SXM2-16GB",
+      "memoryTotal":  "17179869184",
+      "cudaCores":  5120,
+      "architecture":  "Volta"
+    }
+  ],
+  "slurm":  {
+    "cluster_name":  "wahab",
+    "conf":  "/var/spool/slurmd/conf-cache/slurm.conf",
+    "cpus_on_node":  "8",
+    "cpus_per_task":  "8",
+    "gpus_on_node":  "1",
+    "gtids":  "0",
+    "job_account":  "odu",
+    "job_cpus_per_node":  "8",
+    "job_end_time":  "1740687901",
+    "job_gid":  "14514",
+    "job_gpus":  "2",
+    "job_id":  "4287052",
+    "job_name":  "interactive",
+    "job_nodelist":  "d3-w4140b-06",
+    "job_num_nodes":  "1",
+    "job_partition":  "gpu",
+    "job_qos":  "normal",
+    "job_start_time":  "1740083101",
+    "job_uid":  "620814",
+    "job_user":  "hqin",
+    "jobid":  "4287052",
+    "launch_node_ipaddr":  "10.255.4.14",
+    "localid":  "0",
+    "mpi_type":  "pmi2",
+    "nnodes":  "1",
+    "nodeid":  "0",
+    "nodelist":  "d3-w4140b-06",
+    "pmi2_proc_mapping":  "(vector,(0,1,1))",
+    "pmi2_srun_port":  "46481",
+    "pmi2_step_nodes":  "d3-w4140b-06",
+    "prio_process":  "0",
+    "procid":  "0",
+    "pty_port":  "43907",
+    "pty_win_col":  "180",
+    "pty_win_row":  "37",
+    "root":  "/cm/shared/applications/slurm/23.11.3",
+    "srun_comm_host":  "10.255.4.14",
+    "srun_comm_port":  "37285",
+    "step_id":  "4294967290",
+    "step_launcher_port":  "37285",
+    "step_nodelist":  "d3-w4140b-06",
+    "step_num_nodes":  "1",
+    "step_num_tasks":  "1",
+    "step_tasks_per_node":  "1",
+    "stepid":  "4294967290",
+    "submit_dir":  "/home/hqin/github/team_75",
+    "submit_host":  "wahab-01",
+    "task_pid":  "1974136",
+    "tasks_per_node":  "1",
+    "topology_addr":  "d3-w4140b-06",
+    "topology_addr_pattern":  "node",
+    "tres_per_task":  "cpu:8"
+  },
+  "cudaVersion":  "12.3"
+}
