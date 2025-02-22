@@ -9,7 +9,7 @@ Instructions:
 # Check-In
 
 - Title of your submission: **[Fine-tuning pretrained scGPT for bioinformatics service in the biotech industry]**
-- Team Members: [Hong Qin](mailto:hqin@odu.edu), [AMAN AL AMIN](mailto: <malam007@odu.edu>)
+- Team Members: [Hong Qin](mailto:hqin@odu.edu), [AMAN AL AMIN](mailto:malam007@odu.edu), [Terry](mailto:)
 - [X] All team members agree to abide by the [Hackathon Rules](https://aaai.org/conference/aaai/aaai-25/hackathon/)
 - [X] This AAAI 2025 hackathon entry was created by the team during the period of the hackathon, February 17 – February 24, 2025
 - [X] The entry includes a 2-minute maximum length demo video here: [Link](https://youtu.be/RC0v8jZNhFk)
