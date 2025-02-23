@@ -22,6 +22,17 @@ We aim to finetune scGPT (https://github.com/bowang-lab/scGPT) to cell type iden
 The long-term goal is to integrate this capability into the bioinformatics pipeline of Admera Health. 
 
 Our project aligns with theme "Advanced Algorithms in Practice: Bring cutting-edge AI methodologies like reinforcement learning, active learning, or foundation models into real-world applications."
+# Team Contribution
+Hong Qin: lead the overall project
+
+Aman Al Amin: coding
+
+Terry Stillwell: assisted with HPC computing
+
+Min Dong: build the scGPT virtual environment
+
+Yaping Feng: provide the admera data set
+
 
 # Hackathon AAAI homepage
 https://aaai.org/conference/aaai/aaai-25/hackathon/?utm_source=chatgpt.com
