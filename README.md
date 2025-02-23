@@ -23,9 +23,9 @@ The long-term goal is to integrate this capability into the bioinformatics pipel
 
 Our project aligns with theme "Advanced Algorithms in Practice: Bring cutting-edge AI methodologies like reinforcement learning, active learning, or foundation models into real-world applications."
 # Team Contribution
-Hong Qin: lead the overall project
+Hong Qin: lead the overall project, coding, debuging
 
-Aman Al Amin: coding
+Aman Al Amin: coding, debuging
 
 Terry Stillwell: assisted with HPC computing
 
